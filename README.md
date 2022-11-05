@@ -1,2 +1,2 @@
 # Gestion-de-empleados
-Trabajo para Infotec
+Ejercisios para Infotec
